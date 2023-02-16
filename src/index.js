@@ -32,6 +32,7 @@ import {FreeCameraOptions} from './ui/free_camera.js';
 import browser from './util/browser.js';
 
 const exported = {
+    browser,
     version,
     supported,
     setRTLTextPlugin,
